@@ -1,0 +1,69 @@
+ /* all common style starts*/
+
+ * {
+   margin: 0px;
+   padding: 0px;
+   box-sizing: border-box;
+ }
+
+ ul,
+ ol {
+   list-style-type: none;
+
+ }
+
+ a,
+ a:hover {
+   text-decoration: none;
+ }
+
+ h1,
+ h2,
+ h3,
+ h4,
+ h5,
+ h6,
+ p {
+   margin: 0px;
+   padding: 0px;
+ }
+
+ /* all common style end*/
+
+
+ /* header section starts*/
+
+ #navbarSupportedContent,
+ ul,
+ li,
+ a {
+   gap: 43px;
+ }
+
+ .headerbtn {
+   background-color: #5E3BEE;
+   border-radius: 50px;
+   width: 124px;
+   height: 40px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+ }
+
+ .headerbtn a {
+   color: white;
+   stroke: black;
+   font-size: 14;
+   font-weight: 400;
+   padding: 57px 21px;
+ }
+
+
+
+ /* header section end */
+ /* header section starts*/
+ /* header section end */
+ /* header section starts*/
+ /* header section end */
+ /* header section starts*/
+ /* header section end */
